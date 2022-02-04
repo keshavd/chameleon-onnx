@@ -122,5 +122,8 @@
         "statements": 90
       }
     }
+  },
+  "devDependencies": {
+    "onnxruntime-web": "1.10.0"
   }
 }
